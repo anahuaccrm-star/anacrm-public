@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "notes": "Inicialización del actualizador",
+  "pub_date": "2026-08-26T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
