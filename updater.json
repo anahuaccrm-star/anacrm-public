@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.15",
+  "version": "v1.0.31",
   "notes": "Inicialización del actualizador",
   "pub_date": "2026-08-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzh4ZjRsUXFSWUYxcUo5dldPNXFBaEFVZG50dE9ZR3lsaTBRVm1YRGw3by9tbUgxWjVkS1N2bTNhT0NSdlhLQytYSlVWQThqa3lEYXV5OUIvRjRyeGtxL1crK2lYTmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY0ODY5CWZpbGU6YW5haHVhYy1jcm1fMS4wLjI4X3g2NC1zZXR1cC5leGUKU3hNa2NmQjNWMU1maUdsMTZlQlNkVUp6WEdUTmJWZFdQMUxXenAzWEVBYyt1WEJpZkdhMEZaU3pEbXhnbkorNjI2NE42WHJNTXp2V3pFd2g3QTRuQXc9PQo",
-      "url": "https://github.com/anahuaccrm-star/anacrm-public/releases/download/v1.0.28/anahuac-crm_1.0.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzh4ZjRsUXFSWUFTaXdQakdnSU93Y0VkaXJ3aXF1R2cvSmM3K0JKYVRvVVlaNnBMdUxUWjdRY3pySmFEdlRIY1FkVjJqdldtY2k0dTJDN3hOU2NhcGYrWWlqK214R0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODcyNjk3CWZpbGU6YW5haHVhYy1jcm1fMS4wLjMxX3g2NC1zZXR1cC5leGUKZE5VakRmdkNvbm81RkNqbTZYTzNXZU5DeEQ1L293T2FHZGhiRWliK29aZVcrS1ZiNFRoMUhIL0RuamppR1E3QjYrNzh5RWRVM2M3ODNXL2Y3eUNYQ2c9PQo=",
+      "url": "https://github.com/anahuaccrm-star/anacrm-public/releases/download/v1.0.31/anahuac-crm_1.0.31_x64-setup.exe"
     }
   }
 }
