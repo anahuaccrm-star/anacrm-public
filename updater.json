@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.47",
+  "version": "v1.0.48",
   "notes": "Inicialización del actualizador",
   "pub_date": "2026-08-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzh4ZjRsUXFSWU1RMEJKM2hLVVlpVlRSWDNwcEZoQ3QyZC9DYzFPKzRkRFJobXpBUllhMXl1RGZDVEdSSy9rM3BKUm9RdlJhRXFGcDBhQ3VGVi9PQUtUZmN1RCttaEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI4NDU4CWZpbGU6UFJPR1JBTUEgREUgR0VTVEnDk04gQUNBRMOJTUlDQS5fMS4wLjQ3X3g2NC1zZXR1cC5leGUKZzkzUzlkV1dkblRLL0QvR2tGaW84SWtWZjdZWXFiTnVmZTlxQ3kxRjFrejBRWHVCMmEraUNTVE02eTFqczFnRVVOUGdxOEdLL3VwZnVzSEJ5bW4xQVE9PQo=",
-      "url": "https://github.com/anahuaccrm-star/anacrm-public/releases/download/v1.0.47/PROGRAMA.DE.GESTION.ACADEMICA._1.0.47_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzh4ZjRsUXFSWUZxYXlYUW9mdWU1V3hSZE91bzZIYnM2RlJTd0dJOXYvZTY4Z3FSaFUvMDFWU0RuVWY0K2NjOU40TzZMZlg4d2ZVQ3RscXlPeHRpbjIwaGphU2doVkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTYwODM3CWZpbGU6UFJPR1JBTUEgREUgR0VTVEnDk04gQUNBRMOJTUlDQS5fMS4wLjQ4X3g2NC1zZXR1cC5leGUKUjJicXJVcjJXQzJrUTB4TDlKRW44UlJXQlZLTitiRFVqQThuTnFBQnBqM1RRQ0VnSUxhSkFTNTNWeEEwT2w2Sk03c2c2RnlxS1pMQnpTZTBJL0pKQXc9PQo=",
+      "url": "https://github.com/anahuaccrm-star/anacrm-public/releases/download/v1.0.48/PROGRAMA.DE.GESTION.ACADEMICA._1.0.48_x64-setup.exe"
     }
   }
 }
